@@ -50,6 +50,8 @@ Clear ETL stages:
 Reproducible artifacts (CSV / JSON / Markdown)
 
 Project Structure
+
+```
 network-intelligence-anomaly-graph/
 ├── README.md
 ├── requirements.txt
@@ -79,6 +81,7 @@ network-intelligence-anomaly-graph/
 │
 └── notebooks/
     └── 01_eda.ipynb         
+```
 
 Data Model:
 Nodes
