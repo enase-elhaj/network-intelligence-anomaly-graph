@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Data (optional: keep raw data if small)
+# Uncomment if you want to exclude large data
+# data/processed/
+
+
+# Data artifacts
+data/processed/*.csv
+data/processed/*.json
+data/processed/*.md
+
+# Reports
+reports/
+
+# Jupyter outputs
+.ipynb_checkpoints/
+

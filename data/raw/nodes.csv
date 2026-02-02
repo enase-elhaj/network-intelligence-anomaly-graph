@@ -1,0 +1,11 @@
+node_id,node_type,site,vendor,criticality
+R1,router,DEN-01,cisco,high
+R2,router,DEN-02,cisco,high
+SW1,switch,DEN-01,arista,med
+SW2,switch,DEN-02,arista,med
+SV1,server,DEN-01,dell,high
+SV2,server,DEN-02,dell,high
+AUTH,service,DEN-01,na,high
+BILLING,service,DEN-02,na,high
+CATALOG,service,DEN-01,na,med
+PAYMENTS,service,DEN-02,na,high
