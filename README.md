@@ -39,9 +39,9 @@ Incident-scoped subgraphs
 
 Structured JSON incident reports
 
-Human-readable incident narratives (LLM-assisted with fallback):
+Human-readable incident narratives (LLM-assisted with fallback)
 
-Production-Oriented Design
+Production-Oriented Design:
 
 Deterministic pipelines
 
